@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "よあけのうた - Yoake no uta",
+  "base_artist": "jo0ji",
+  "createdAt": "2026-01-14T06:50:28.827035Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "よあけのうた",
+      "artist": "jo0ji",
+      "has_synced": false,
+      "path": "select/pl_01_よあけのうた_jo0ji.txt"
+    }
+  ]
+}
